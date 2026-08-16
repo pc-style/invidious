@@ -1,7 +1,7 @@
 > [!IMPORTANT]
-> **Archived upstream fork/reference. Do not use this repository for new work.**
+> **Archive pending. Do not use this repository for new work.** This upstream fork/reference is scheduled for archive once repository administration permission is available.
 >
-> Upstream: [iv-org/invidious](https://github.com/iv-org/invidious). The maintained `pc-style` delta is **none**; the only new commit is this archive notice.
+> Upstream: [iv-org/invidious](https://github.com/iv-org/invidious). The maintained `pc-style` delta is **none**; the only pc-style changes are repository-status notices.
 > Upstream history and license/provenance notices are preserved. The repository-detected license is [GNU Affero General Public License v3.0](LICENSE).
 > Use upstream for current code, releases, issues, and security updates.
 
