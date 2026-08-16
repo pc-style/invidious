@@ -1,3 +1,10 @@
+> [!IMPORTANT]
+> **Archived upstream fork/reference. Do not use this repository for new work.**
+>
+> Upstream: [iv-org/invidious](https://github.com/iv-org/invidious). The maintained `pc-style` delta is **none**; the only new commit is this archive notice.
+> Upstream history and license/provenance notices are preserved. The repository-detected license is [GNU Affero General Public License v3.0](LICENSE).
+> Use upstream for current code, releases, issues, and security updates.
+
 <div align="center">
   <img src="assets/invidious-colored-vector.svg" width="192" height="192" alt="Invidious logo">
   <h1>Invidious</h1>
